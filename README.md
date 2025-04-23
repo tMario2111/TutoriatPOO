@@ -7,3 +7,4 @@ Tutoriatele de până acum:
 2. [Supraîncărcarea operatorilor, const, static](/tutoriat2/README.md)
 3. [Exemplu clasă ComplexNumber](/tutoriat3/README.md)
 4. [Introducere în moștenire și smart pointers](/tutoriat4/README.md)
+5. [Funcții virtuale, moștenirea în diamant](/tutoriat5/README.md)
